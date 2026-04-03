@@ -1,0 +1,15 @@
+# Dipendenze (da gestire col link simbolico che ti ho detto)
+node_modules/
+dist/
+
+# Adobe Asset Raw (se li tieni nella cartella di progetto)
+*.psd
+*.ai
+*.prproj
+
+# MS Office temp files
+~$*
+
+# Local env
+.env
+.DS_Store

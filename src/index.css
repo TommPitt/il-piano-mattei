@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@theme {
+  --color-mattei-black: #0A0A0A;
+  --color-mattei-ocra: #C4A747;
+  --color-mattei-blue: #2C3E50;
+  --color-mattei-yellow: #F4D03F;
+}
