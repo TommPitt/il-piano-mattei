@@ -1,6 +1,6 @@
+import { Analytics } from '@vercel/analytics/react';
 import React from 'react';
 import { ShoppingCart, BookOpen, ChevronRight, Info, History, Cpu, User, Globe, Shield, Brain, Zap } from 'lucide-react';
-import { Analytics } from '@vercel/analytics/react';
 
 // --- COMPONENTI SVG PERSONALIZZATI ---
 const FacebookIcon = () => (
