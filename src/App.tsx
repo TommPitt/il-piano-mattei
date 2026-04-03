@@ -38,7 +38,7 @@ const App: React.FC = () => {
             Il Piano <br/> <span className="text-[#2C3E50]">Mattei</span>
           </h1>
           <p className="text-xl leading-relaxed mb-10 max-w-xl text-gray-700 border-l-4 border-[#C4A747] pl-6 italic text-left">
-            27 ottobre 1962. Una decisione cambia tutto. In questa realtà alternativa, l'Italia diventa una superpotenza planetaria. Due realtà si scontrano: quella di un agente segreto in Sardegna e quella di un uomo tormentato da ricordi impossibili.
+            27 ottobre 1962. Una decisione cambia il corso della storia e l'Italia diventa una superpotenza planetaria. Due realtà si scontrano: quella di un agente segreto in Sardegna e quella di un uomo tormentato da ricordi impossibili.
           </p>
           <div className="flex wrap gap-4">
             <a href="#acquista" className="px-10 py-5 bg-[#0A0A0A] text-white font-bold hover:bg-[#C4A747] hover:scale-105 transition-all duration-300 flex items-center gap-3 uppercase tracking-widest text-sm shadow-xl">
